@@ -6,4 +6,10 @@ This project consists of abstract data types, such as linked lists, trees, stack
 ## Included Files
 
 ## Contact
-Email: mariamantably@gmail.com
+Email: mariamantably@gmail.com 
+
+Instagram: @mariamelantable 
+
+Github: @mariamelantably
+
+Linkedin: (www.linkedin.com/in/mariam-elantably-ab0559290)
