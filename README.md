@@ -1,4 +1,4 @@
-# Abstract Data Types
+# Data Structures & Algorithms
 
 ## Description
 This project consists of abstract data types, such as linked lists, trees, stacks and queues, created using object-oriented programming in Python, as well as associated operations for each of the data types.
